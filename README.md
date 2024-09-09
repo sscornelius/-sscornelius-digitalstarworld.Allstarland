@@ -1,1 +1,1 @@
-# -sscornelius-digitalstarworld.Allstarland
+digitalstarworld()
